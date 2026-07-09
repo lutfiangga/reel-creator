@@ -1,0 +1,9 @@
+openai-whisper
+opencv-python
+mediapipe
+moviepy
+ffmpeg-python
+numpy
+torch
+yt-dlp
+pillow
