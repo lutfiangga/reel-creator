@@ -1,0 +1,14 @@
+{
+  "watch": ["."],
+  "ext": "js,mjs,cjs,json",
+  "ignore": [
+    "../client/*",
+    "../.git/*",
+    "uploads/*",
+    "outputs/*",
+    "temp/*",
+    "*.db",
+    "node_modules/*"
+  ],
+  "delay": "1000"
+}
